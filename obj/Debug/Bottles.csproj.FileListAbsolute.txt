@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\Bottles\bin\Debug\Bottles.exe.config
+C:\Users\Nolan Pawelski\Desktop\Bottles\bin\Debug\Bottles.exe
+C:\Users\Nolan Pawelski\Desktop\Bottles\bin\Debug\Bottles.pdb
+C:\Users\Nolan Pawelski\Desktop\Bottles\obj\Debug\Bottles.csprojAssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\Bottles\obj\Debug\Bottles.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\Bottles\obj\Debug\Bottles.exe
+C:\Users\Nolan Pawelski\Desktop\Bottles\obj\Debug\Bottles.pdb
